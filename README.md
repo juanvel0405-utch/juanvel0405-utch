@@ -8,8 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvel0405-utch&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 Adicionalmemte 
-- Python 
-- javascript
+- Python (Basico)
 
 ## 📂 Proyectos destacados
 
