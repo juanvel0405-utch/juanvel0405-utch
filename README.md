@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Juan David Velázquez
 
-<!--
-**juanvel0405-utch/juanvel0405-utch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Desarrollo de Software – UTCH  
+💻 Interesado en desarrollo backend, bases de datos y aplicaciones web  
+📍 Chihuahua, México
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvel0405-utch&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adicionalmemte 
+- Python 
+- javascript
+
+## 📂 Proyectos destacados
+
+### 🧾 Sistema de gestión (SIPPRE)
+Sistema CRUD con base de datos para administración de prestamo de equipos.
+
+### 💣 Buscaminas
+Recreacion en java del juego clasico buscaminas
+
+### 💣 Repoductor de Audio
+Reproductor de audio sencillo con realizado con dart y con BLOC
+
+
+## 📫 Contacto
+✉️ juanvel0405@gmail.com
+
+📱 614 368 3357
+
+
